@@ -1,3 +1,8 @@
 .titulo {
   font-family: 'Indie Flower', cursive;
 }
+
+.banner {
+  height: 290px;
+  object-fit: cover;
+}
